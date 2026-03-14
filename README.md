@@ -74,7 +74,8 @@ print("\nTransformation Completed Successfully.")
 print("\nTransformed Dataset Preview:")
 print(positive_data.head())
 ```
-C:\Users\acer\Pictures\Screenshots\Screenshot 2026-03-14 170952.png
+
+
 # RESULT:
       The dataset is successfully transformed by applying log, reciprocal, square root, square, Box-Cox, Yeo-Johnson, and standard scaling transformations to the selected numeric column, and the results are saved as Transformed_Positive_Data.csv and Transformed_Full_Data.csv.
 
